@@ -1,0 +1,46 @@
+{
+    "hockey_sticks": [
+      {
+        "id": 1,
+        "name": "Nike Pursuit LT Mid Carbon Hockeystick Senior",
+        "price": "280.00",
+        "image": "assets/images/nikeLINKS.webp"
+      },
+      {
+        "id": 2,
+        "name": "Osaka Lowbow Advanced 70 Hockeystick Senior",
+        "price": "310.00",
+        "image": "assets/images/stick1.webp"
+      },
+      {
+        "id": 3,
+        "name": "Nike Laser Elite Max Carbon Hockeystick Senior",
+        "price": "295.00",
+        "image": "assets/images/nikeRECHTS.webp"
+      }
+    ],
+    "tech_products": [
+      {
+        "id": 1,
+        "name": "Tech Shorts Heren",
+        "price": "40.00",
+        "image": "assets/images/The-Indian-Maharadja-Tech-Shorts-Heren_10.webp",
+        "position": "right"
+      },
+      {
+        "id": 2,
+        "name": "Tech Shirt",
+        "price": "35.00",
+        "image": "assets/images/The-Indian-Maharadja-Tech-Shirt-Junior_18.webp",
+        "position": "center"
+      },
+      {
+        "id": 3,
+        "name": "Tech Skort dames",
+        "price": "40.00",
+        "image": "assets/images/The-Indian-Maharadja-Tech-Skort-Meisjes_9.webp",
+        "position": "left"
+      }
+    ]
+  }
+  
